@@ -1,4 +1,4 @@
-{
+let viatura_deslocou = {
   "0":"Sim, viatura saiu da unidade",
   "1":"Sim, viatura estava fora da unidade",
   "2":"Sim, porém foi cancelada",
