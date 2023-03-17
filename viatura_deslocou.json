@@ -1,0 +1,29 @@
+[
+    {
+      "key" : "0",
+      "description" : "Sim, viatura saiu da unidade"
+    },
+    {
+      "key" : "1",
+      "description" : "Sim, viatura estava fora da unidade"
+    },
+    {
+      "key" : "2",
+      "description" : "Sim, porém foi cancelada"
+    },
+
+    {
+      "key" : "3",
+      "description" : "Não, porém houve atendimento no quartel"
+    },
+
+    {
+      "key" : "4",
+      "description" : "Não, a QTO foi cancelada antes da saída"
+    },
+
+    {
+      "key" : "5",
+      "description" : "Não, a QTO foi redirecionada"
+    }
+]
