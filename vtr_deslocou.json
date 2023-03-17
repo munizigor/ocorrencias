@@ -10,17 +10,17 @@
     {
       "key" : "2",
       "description" : "Sim, porém foi cancelada"
-    }
+    },
 
     {
       "key" : "3",
       "description" : "Não, porém houve atendimento no quartel"
-    }
+    },
 
     {
       "key" : "4",
       "description" : "Não, a QTO foi cancelada antes da saída"
-    }
+    },
 
     {
       "key" : "5",
